@@ -23,6 +23,10 @@ a:hover {
   text-decoration: underline;
 }
 
+a.no-underline {
+  text-decoration: none;
+}
+
 .navbar-background {
   background: rgba(0, 0, 0, 0.336);
 }
